@@ -1,6 +1,8 @@
 ProtonLab Suite Core 3.1
 ======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ProtonLab/PCF.svg)](https://greenkeeper.io/)
+
 ProtonLab Suite Core is a free CMS and web-framework, basing on [**WoltLab Suite Core 3.1**](https://woltlab.com), designed for awesome websites and communities. Cutting-edge technologies and strict object-oriented programming makes it the ideal choice for developers and communities, and is actively maintained and improved by WoltLab.
 
 _Formerly known as [WoltLab Community Framework](https://community.woltlab.com/thread/249026-introducing-woltlab-suite-3-0/)_
