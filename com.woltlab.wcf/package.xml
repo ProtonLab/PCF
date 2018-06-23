@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package name="com.woltlab.wcf" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/tornado/package.xsd">
 	<packageinformation>
-		<packagename>WoltLab Suite Core</packagename>
+		<packagename>ProtonLab Suite Core</packagename>
 		<packagedescription>Free CMS and web-framework, designed for awesome websites and communities.</packagedescription>
 		<packagedescription language="de">Freies CMS und Web-Framework, das eindrucksvolle Websites und Communities ermöglicht.</packagedescription>
 		<isapplication>1</isapplication>
-		<version>3.1.3 pl 1</version> <!-- codename: tornado -->
+		<version>3.1.4 pl 1</version> <!-- codename: taco -->
 		<date>2018-05-24</date>
 	</packageinformation>
 	
 	<authorinformation>
-		<author>WoltLab GmbH</author>
+		<author>WoltLab GmbH / ProtonLab</author>
 		<authorurl>http://www.woltlab.com</authorurl>
 	</authorinformation>
 	
